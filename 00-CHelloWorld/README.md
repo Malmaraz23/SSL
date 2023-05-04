@@ -1,1 +1,1 @@
-visual estudio code
+MinGW
